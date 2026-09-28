@@ -1,0 +1,14 @@
+C:\Users\Majer.Marton\source\repos\GyManager\GyManager\bin\Debug\net8.0\GyManager.exe
+C:\Users\Majer.Marton\source\repos\GyManager\GyManager\bin\Debug\net8.0\GyManager.deps.json
+C:\Users\Majer.Marton\source\repos\GyManager\GyManager\bin\Debug\net8.0\GyManager.runtimeconfig.json
+C:\Users\Majer.Marton\source\repos\GyManager\GyManager\bin\Debug\net8.0\GyManager.dll
+C:\Users\Majer.Marton\source\repos\GyManager\GyManager\bin\Debug\net8.0\GyManager.pdb
+C:\Users\Majer.Marton\source\repos\GyManager\GyManager\obj\Debug\net8.0\GyManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Majer.Marton\source\repos\GyManager\GyManager\obj\Debug\net8.0\GyManager.AssemblyInfoInputs.cache
+C:\Users\Majer.Marton\source\repos\GyManager\GyManager\obj\Debug\net8.0\GyManager.AssemblyInfo.cs
+C:\Users\Majer.Marton\source\repos\GyManager\GyManager\obj\Debug\net8.0\GyManager.csproj.CoreCompileInputs.cache
+C:\Users\Majer.Marton\source\repos\GyManager\GyManager\obj\Debug\net8.0\GyManager.dll
+C:\Users\Majer.Marton\source\repos\GyManager\GyManager\obj\Debug\net8.0\refint\GyManager.dll
+C:\Users\Majer.Marton\source\repos\GyManager\GyManager\obj\Debug\net8.0\GyManager.pdb
+C:\Users\Majer.Marton\source\repos\GyManager\GyManager\obj\Debug\net8.0\GyManager.genruntimeconfig.cache
+C:\Users\Majer.Marton\source\repos\GyManager\GyManager\obj\Debug\net8.0\ref\GyManager.dll
